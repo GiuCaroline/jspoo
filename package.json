@@ -1,0 +1,20 @@
+{
+  "name": "jspoo",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/GiuCaroline/jspoo#readme",
+  "bugs": {
+    "url": "https://github.com/GiuCaroline/jspoo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiuCaroline/jspoo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
